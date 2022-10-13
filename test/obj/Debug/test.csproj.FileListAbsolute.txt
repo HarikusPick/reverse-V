@@ -1,0 +1,8 @@
+D:\Users\Furkan\Desktop\C#\c#  örnekler\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+D:\Users\Furkan\Desktop\C#\c#  örnekler\test\test\obj\Debug\test.csproj.SuggestedBindingRedirects.cache
+D:\Users\Furkan\Desktop\C#\c#  örnekler\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Users\Furkan\Desktop\C#\c#  örnekler\test\test\bin\Debug\test.exe.config
+D:\Users\Furkan\Desktop\C#\c#  örnekler\test\test\bin\Debug\test.exe
+D:\Users\Furkan\Desktop\C#\c#  örnekler\test\test\bin\Debug\test.pdb
+D:\Users\Furkan\Desktop\C#\c#  örnekler\test\test\obj\Debug\test.exe
+D:\Users\Furkan\Desktop\C#\c#  örnekler\test\test\obj\Debug\test.pdb
